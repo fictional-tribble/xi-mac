@@ -30,6 +30,8 @@ Screenshot (will need to be updated as syntax coloring and UI polish is added):
 
 ## Getting started
 
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/xi-mac.svg)](https://www.staging.guardrails.io)
+
 ### Requirements
 - [Xcode 9.x](https://developer.apple.com/xcode/)
 - [Rust](https://www.rust-lang.org/). We test against the latest stable version,
